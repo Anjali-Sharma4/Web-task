@@ -1,0 +1,160 @@
+
+		body,table,td,a{
+			-webkit-text-size-adjust:100%;
+			-ms-text-size-adjust:100%;
+		}
+		.green-board{
+			background-image: url("back-ground.jpg");
+		}
+		.actions-board{
+			
+			background-color:#f5f6f6;
+			margin:10px 0px;
+			border-radius: 10px;
+		}
+		.navbar-default {
+			background-color: #dfe1e1 !important;
+		}
+		.navbar-default .navbar-nav>li>a {
+			color: #000000 !important;
+		}
+		.header-text{
+			
+		    font-style: italic;
+		font-size: 17px;
+		
+		font-weight: bold;
+		}
+		.title{
+			color: #469e0c;
+		}
+		.title-with{
+			font-size:12px; color: #9b9797;
+		}
+		#musicinfo {
+			display: block;
+		}
+		.small-text{
+			float: right; font-size:13px;
+		}
+		
+		.actions{
+			padding:10px 30px;
+		}
+		.list-actions{
+			padding:10px 10px;
+			border: 1px solid #bebcbb;
+			
+			margin:10px 0px;
+			border-radius: 10px;
+			background:#f8f8f8;
+		}
+		.new-button{
+			    margin: 10px 0px ;
+				background-color: #3d3d3d;
+				color: #fff;
+				box-shadow: 1px 0px 0px 0px #7e7b7b;
+				border: none;
+				padding: 3px 8px;
+				border-radius: 5px;
+				float: right;
+				font-size:11px;
+				min-width: 75px;
+		}
+		.control-label{
+			font-size: 10px !important;
+			font-weight: normal;
+			padding-top: 0px !important;
+			text-align: left !important;
+		}
+		.form-control{
+			height: 21px !important;
+			padding: 0px 2px !important;
+			font-size: 11px !important;
+		}
+		.form-horizontal .checkbox, .form-horizontal .radio {
+			min-height: 0px !important;
+		}
+		.show-hide{
+			 margin-top: 14px;
+		}
+		
+		p{
+			margin:1 !important;
+			font-size: 12px !important;
+			font-weight: normal;
+			color: #909090;
+		}
+		.bottom-text p{
+			margin:0 auto !important;
+		}
+		.new-label{
+			    font-size: 11px;
+				font-weight: normal;
+				padding: 2px 0px;
+		}
+		.record-show{
+			font-size:10px;
+		}
+		table,td{
+			mso-table-lspace:0;
+			mso-table-rspace:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		img{
+			border:0;
+			height:auto;
+			line-height:100%;
+			outline:none;
+			text-decoration:none;
+			min-width: 100%;
+		}
+		table{
+			border-collapse:collapse !important;
+		}
+		body{
+			height:100% !important;
+			margin:0 !important;
+			padding:0 !important;
+			width:100% !important;
+			font-family:'Poppins' !important;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+	
+		.thanks{
+            text-align: center;
+			color: #469e0c;
+		}
+		
+	.no-display{
+		display: none;
+	}
+
+	.display-visible{
+		display: normal;
+	}
+
+	.loading {
+		display : block;
+		position : fixed;
+		z-index: 100;
+		background-image : url("bigrotation2.gif");
+		background-color:#666;
+		opacity : 0.4;
+		background-repeat : no-repeat;
+		background-position : center;
+		left : 0;
+		bottom : 0;
+		right : 0;
+		top : 0;
+		
+	}
